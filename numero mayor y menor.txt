@@ -1,0 +1,3 @@
+﻿1>------ Operación Compilar iniciada: proyecto: bucles mas arrays, configuración: Debug Any CPU ------
+1>  bucles mas arrays -> C:\Users\USUARIO 3\source\repos\bucles mas arrays\bucles mas arrays\bin\Debug\bucles mas arrays.exe
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
