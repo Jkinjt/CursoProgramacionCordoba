@@ -23,5 +23,6 @@ namespace Empleado
         {
             return (dia + "/" + mes + "/" + anno);
         }
+        
     }
 }
